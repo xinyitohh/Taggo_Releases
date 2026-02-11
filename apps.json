@@ -1,0 +1,17 @@
+{
+  "name": "Taggo Store",
+  "identifier": "com.taggo.source",
+  "apps": [
+    {
+      "name": "Taggo",
+      "bundleIdentifier": "com.taggo.app",
+      "developerName": "Taggo Team",
+      "version": "1.0.16",
+      "versionDate": "2026-02-11",
+      "downloadURL": "https://github.com/xinyitohh/Taggo_Releases/releases/download/1.0.16/taggo_release.ipa",
+      "localizedDescription": "Latest auto-update from Codemagic.",
+      "size": 27595023,
+      "iconURL": "https://raw.githubusercontent.com/xinyitohh/Taggo_Releases/main/icon.png"
+    }
+  ]
+}
