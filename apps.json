@@ -6,12 +6,21 @@
       "name": "Taggo",
       "bundleIdentifier": "com.taggo.app",
       "developerName": "Taggo Team",
-      "version": "1.0.21",
+      "version": "1.0.24",
       "versionDate": "2026-02-12",
-      "downloadURL": "https://github.com/xinyitohh/Taggo_Releases/releases/download/1.0.21/taggo_release.ipa",
+      "downloadURL": "https://github.com/xinyitohh/Taggo_Releases/releases/download/1.0.24/taggo_release.ipa",
       "localizedDescription": "Latest auto-update from Codemagic.",
-      "size": 27595025,
-      "iconURL": "https://raw.githubusercontent.com/xinyitohh/Taggo_Releases/main/icon.png"
+      "size": 27595026,
+      "iconURL": "https://raw.githubusercontent.com/xinyitohh/Taggo_Releases/main/icon.png",
+      "versions": [
+        {
+          "version": "1.0.24",
+          "date": "2026-02-12",
+          "downloadURL": "https://github.com/xinyitohh/Taggo_Releases/releases/download/1.0.24/taggo_release.ipa",
+          "size": 27595026,
+          "localizedDescription": "Build 24 from main"
+        }
+      ]
     },
     {
       "name": "Taggo (altstore)",
