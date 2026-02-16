@@ -55,6 +55,26 @@
       "versionDate": "2026-02-12",
       "downloadURL": "https://github.com/xinyitohh/Taggo_Releases/releases/download/1.0.22/taggo_release.ipa",
       "size": 27595030
+    },
+    {
+      "name": "Taggo (profile)",
+      "bundleIdentifier": "com.taggo.app.profile",
+      "developerName": "Taggo Team",
+      "localizedDescription": "Feature branch: feature/profile",
+      "iconURL": "https://raw.githubusercontent.com/xinyitohh/Taggo_Releases/main/icon.png",
+      "versions": [
+        {
+          "version": "1.0.27",
+          "date": "2026-02-16",
+          "downloadURL": "https://github.com/xinyitohh/Taggo_Releases/releases/download/1.0.27/taggo_release.ipa",
+          "size": 27652510,
+          "localizedDescription": "Build 27 from feature/profile"
+        }
+      ],
+      "version": "1.0.27",
+      "versionDate": "2026-02-16",
+      "downloadURL": "https://github.com/xinyitohh/Taggo_Releases/releases/download/1.0.27/taggo_release.ipa",
+      "size": 27652510
     }
   ]
 }
