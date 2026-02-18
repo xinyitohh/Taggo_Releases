@@ -84,6 +84,13 @@
       "iconURL": "https://raw.githubusercontent.com/xinyitohh/Taggo_Releases/main/icon.png",
       "versions": [
         {
+          "version": "1.0.29",
+          "date": "2026-02-18",
+          "downloadURL": "https://github.com/xinyitohh/Taggo_Releases/releases/download/1.0.29/taggo_release.ipa",
+          "size": 27686962,
+          "localizedDescription": "Build 29 from feature/home"
+        },
+        {
           "version": "1.0.28",
           "date": "2026-02-18",
           "downloadURL": "https://github.com/xinyitohh/Taggo_Releases/releases/download/1.0.28/taggo_release.ipa",
@@ -91,10 +98,10 @@
           "localizedDescription": "Build 28 from feature/home"
         }
       ],
-      "version": "1.0.28",
+      "version": "1.0.29",
       "versionDate": "2026-02-18",
-      "downloadURL": "https://github.com/xinyitohh/Taggo_Releases/releases/download/1.0.28/taggo_release.ipa",
-      "size": 27687064
+      "downloadURL": "https://github.com/xinyitohh/Taggo_Releases/releases/download/1.0.29/taggo_release.ipa",
+      "size": 27686962
     }
   ]
 }
