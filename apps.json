@@ -102,6 +102,26 @@
       "versionDate": "2026-02-18",
       "downloadURL": "https://github.com/xinyitohh/Taggo_Releases/releases/download/1.0.29/taggo_release.ipa",
       "size": 27686962
+    },
+    {
+      "name": "Taggo (search)",
+      "bundleIdentifier": "com.taggo.app.search",
+      "developerName": "Taggo Team",
+      "localizedDescription": "Feature branch: feature/search",
+      "iconURL": "https://raw.githubusercontent.com/xinyitohh/Taggo_Releases/main/icon.png",
+      "versions": [
+        {
+          "version": "1.0.30",
+          "date": "2026-02-18",
+          "downloadURL": "https://github.com/xinyitohh/Taggo_Releases/releases/download/1.0.30/taggo_release.ipa",
+          "size": 27704031,
+          "localizedDescription": "Build 30 from feature/search"
+        }
+      ],
+      "version": "1.0.30",
+      "versionDate": "2026-02-18",
+      "downloadURL": "https://github.com/xinyitohh/Taggo_Releases/releases/download/1.0.30/taggo_release.ipa",
+      "size": 27704031
     }
   ]
 }
