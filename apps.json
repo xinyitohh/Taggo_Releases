@@ -215,6 +215,13 @@
       "iconURL": "https://raw.githubusercontent.com/xinyitohh/Taggo_Releases/main/icon.png",
       "versions": [
         {
+          "version": "1.0.46",
+          "date": "2026-03-19",
+          "downloadURL": "https://github.com/xinyitohh/Taggo_Releases/releases/download/1.0.46/taggo_release.ipa",
+          "size": 30400789,
+          "localizedDescription": "Build 46 from feature/chatbot"
+        },
+        {
           "version": "1.0.45",
           "date": "2026-03-19",
           "downloadURL": "https://github.com/xinyitohh/Taggo_Releases/releases/download/1.0.45/taggo_release.ipa",
@@ -229,10 +236,10 @@
           "localizedDescription": "Build 44 from feature/chatbot"
         }
       ],
-      "version": "1.0.45",
+      "version": "1.0.46",
       "versionDate": "2026-03-19",
-      "downloadURL": "https://github.com/xinyitohh/Taggo_Releases/releases/download/1.0.45/taggo_release.ipa",
-      "size": 30391986
+      "downloadURL": "https://github.com/xinyitohh/Taggo_Releases/releases/download/1.0.46/taggo_release.ipa",
+      "size": 30400789
     }
   ]
 }
