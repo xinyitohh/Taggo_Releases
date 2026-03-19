@@ -206,6 +206,26 @@
       "versionDate": "2026-02-18",
       "downloadURL": "https://github.com/xinyitohh/Taggo_Releases/releases/download/1.0.30/taggo_release.ipa",
       "size": 27704031
+    },
+    {
+      "name": "Taggo (chatbot)",
+      "bundleIdentifier": "com.taggo.app.chatbot",
+      "developerName": "Taggo Team",
+      "localizedDescription": "Feature branch: feature/chatbot",
+      "iconURL": "https://raw.githubusercontent.com/xinyitohh/Taggo_Releases/main/icon.png",
+      "versions": [
+        {
+          "version": "1.0.44",
+          "date": "2026-03-19",
+          "downloadURL": "https://github.com/xinyitohh/Taggo_Releases/releases/download/1.0.44/taggo_release.ipa",
+          "size": 30391969,
+          "localizedDescription": "Build 44 from feature/chatbot"
+        }
+      ],
+      "version": "1.0.44",
+      "versionDate": "2026-03-19",
+      "downloadURL": "https://github.com/xinyitohh/Taggo_Releases/releases/download/1.0.44/taggo_release.ipa",
+      "size": 30391969
     }
   ]
 }
