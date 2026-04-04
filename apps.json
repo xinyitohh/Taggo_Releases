@@ -6,27 +6,13 @@
       "name": "Taggo",
       "bundleIdentifier": "com.taggo.app",
       "developerName": "Taggo Team",
-      "version": "1.0.54",
-      "versionDate": "2026-04-04",
-      "downloadURL": "https://github.com/xinyitohh/Taggo_Releases/releases/download/1.0.54/taggo_release.ipa",
+      "version": "1.0.51",
+      "versionDate": "2026-03-26",
+      "downloadURL": "https://github.com/xinyitohh/Taggo_Releases/releases/download/1.0.51/taggo_release.ipa",
       "localizedDescription": "Latest auto-update from Codemagic.",
-      "size": 18899243,
+      "size": 18553338,
       "iconURL": "https://raw.githubusercontent.com/xinyitohh/Taggo_Releases/main/icon.png",
       "versions": [
-        {
-          "version": "1.0.54",
-          "date": "2026-04-04",
-          "downloadURL": "https://github.com/xinyitohh/Taggo_Releases/releases/download/1.0.54/taggo_release.ipa",
-          "size": 18899243,
-          "localizedDescription": "Build 54 from main"
-        },
-        {
-          "version": "1.0.52",
-          "date": "2026-04-02",
-          "downloadURL": "https://github.com/xinyitohh/Taggo_Releases/releases/download/1.0.52/taggo_release.ipa",
-          "size": 18838508,
-          "localizedDescription": "Build 52 from main"
-        },
         {
           "version": "1.0.51",
           "date": "2026-03-26",
@@ -289,25 +275,6 @@
       "versionDate": "2026-03-19",
       "downloadURL": "https://github.com/xinyitohh/Taggo_Releases/releases/download/1.0.47/taggo_release.ipa",
       "size": 30401310
-    },
-    {
-      "name": "Taggo",
-      "bundleIdentifier": "com.taggo.app",
-      "platform": "ios",
-      "developerName": "Taggo Team",
-      "iconURL": "https://raw.githubusercontent.com/xinyitohh/Taggo_Releases/main/icon.png",
-      "versions": [
-        {
-          "version": "1.0.3",
-          "date": "2026-04-04",
-          "downloadURL": "https://github.com/xinyitohh/Taggo_Releases/releases/download/1.0.3/taggo_release.ipa",
-          "size": 166
-        }
-      ],
-      "version": "1.0.3",
-      "versionDate": "2026-04-04",
-      "downloadURL": "https://github.com/xinyitohh/Taggo_Releases/releases/download/1.0.3/taggo_release.ipa",
-      "size": 166
     }
   ]
 }
