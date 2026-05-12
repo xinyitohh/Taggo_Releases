@@ -6,13 +6,20 @@
       "name": "Taggo",
       "bundleIdentifier": "com.taggo.app",
       "developerName": "Taggo Team",
-      "version": "1.0.75",
-      "versionDate": "2026-05-07",
-      "downloadURL": "https://github.com/xinyitohh/Taggo_Releases/releases/download/1.0.75/taggo_release.ipa",
+      "version": "1.0.76",
+      "versionDate": "2026-05-12",
+      "downloadURL": "https://github.com/xinyitohh/Taggo_Releases/releases/download/1.0.76/taggo_release.ipa",
       "localizedDescription": "Latest auto-update from Codemagic.",
-      "size": 25700483,
+      "size": 25710099,
       "iconURL": "https://raw.githubusercontent.com/xinyitohh/Taggo_Releases/main/icon.png",
       "versions": [
+        {
+          "version": "1.0.76",
+          "date": "2026-05-12",
+          "downloadURL": "https://github.com/xinyitohh/Taggo_Releases/releases/download/1.0.76/taggo_release.ipa",
+          "size": 25710099,
+          "localizedDescription": "Build 76 from main"
+        },
         {
           "version": "1.0.75",
           "date": "2026-05-07",
